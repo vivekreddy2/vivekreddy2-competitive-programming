@@ -1,4 +1,4 @@
-    #include <bits/stdc++.h>
+#include <bits/stdc++.h>
 #define fr(i, a, n) for (i = a; i <= n; i++)
 #define rf(i, n, a) for (i = n; i >= a; i--)
 #define rep(i,a,n) for (int i=a;i<n;i++)
